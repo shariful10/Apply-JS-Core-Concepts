@@ -6,9 +6,9 @@ function isEven(number){
         return false;
     }
 }
-// const myNumberIsEven = isEven(49);
-// console.log(myNumberIsEven);
-// const herNumberIsEven = isEven(40);
-// console.log(herNumberIsEven);
+const myNumberIsEven = isEven(49);
+console.log(myNumberIsEven);
+const herNumberIsEven = isEven(40);
+console.log(herNumberIsEven);
 
 

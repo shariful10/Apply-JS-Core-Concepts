@@ -15,7 +15,7 @@
 // const evenNumbers = findEvenNumbers(allNumbers);
 // console.log(evenNumbers);
 
-// Get Even Numbers of an Array (Alternative Syste)
+// Get Even Numbers of an Array (Alternative System)
 
 function getEvenNumbers(numbers) {
     return numbers.filter(function(even) {
@@ -25,5 +25,5 @@ function getEvenNumbers(numbers) {
   
   const myNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
   const evenNumbers = getEvenNumbers(myNumbers);
-  console.log(evenNumbers); 
+  console.log(evenNumbers);
   

@@ -46,7 +46,7 @@ function getSumOfAnArray(numbers){
 // const oddNumbers = findOddNumbers(myNumbers);
 // console.log(oddNumbers);
 
-// Get Odd Numbers of an Array (Alternative Syste)
+// Get Odd Numbers of an Array (Alternative System)
 
 function getOddNumbers(numbers) {
     return numbers.filter(function(odd) {
